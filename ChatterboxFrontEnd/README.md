@@ -1,5 +1,5 @@
 # ChatterboxFrontEnd
-This is Jan's contribution to the Chatterbox social media platform project. The front end employs the following technologies:
+This is Jan's contribution to the Chatterbox social media platform project, in which he led a small Agile development team. The front end employs the following technologies:
 * Angular
 * AJAX
 * TypeScript
