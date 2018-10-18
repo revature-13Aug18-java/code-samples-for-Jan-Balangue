@@ -7,4 +7,4 @@ This is Jan's contribution to the Chatterbox social media platform project, in w
 * CSS
 * Auth0 authentication
 
-Link to backend repository: https://github.com/computeruser88/project2-chatterbox
+Link to backend repository: https://github.com/crandonriordan/Project2-Chatterbox/tree/master/p2-mvc/src
