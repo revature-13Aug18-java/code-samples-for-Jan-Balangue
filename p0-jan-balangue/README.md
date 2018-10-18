@@ -2,4 +2,5 @@
 This is a CLI banking application utilizing the following technologies:
 * Java
 * JDBC
+* log4j
 * Amazon Web Services RDS
