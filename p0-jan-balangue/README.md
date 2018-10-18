@@ -1,5 +1,5 @@
 # p0-jan-balangue
-This is a CLI banking application utilizing the following technologies:
+This is a CLI banking application that allows the user to create an account, make deposits and withdraw funds. It utilizes the following technologies:
 * Java
 * JDBC
 * log4j
