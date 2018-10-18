@@ -1,2 +1,10 @@
 # ChatterboxFrontEnd
-This is Jan's contribution to the Chatterbox social media platform project. The front end was written in Angular and uses Auth0 authentication.
+This is Jan's contribution to the Chatterbox social media platform project, in which he led a small Agile development team. The front end employs the following technologies:
+* Angular
+* AJAX
+* TypeScript
+* HTML 5
+* CSS
+* Auth0 authentication
+
+Link to backend repository: https://github.com/crandonriordan/Project2-Chatterbox/tree/master/p2-mvc/src
