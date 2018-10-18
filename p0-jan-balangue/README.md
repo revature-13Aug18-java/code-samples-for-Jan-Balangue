@@ -1,2 +1,5 @@
 # p0-jan-balangue
-This is a banking application written in Java, also using Amazon Web Services RDS.
+This is a CLI banking application utilizing the following technologies:
+* Java
+* JDBC
+* Amazon Web Services RDS
