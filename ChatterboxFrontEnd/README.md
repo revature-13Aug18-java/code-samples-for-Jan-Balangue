@@ -6,4 +6,5 @@ This is Jan's contribution to the Chatterbox social media platform project, in w
 * HTML 5
 * CSS
 * Auth0 authentication
+
 Link to backend repository: https://github.com/computeruser88/project2-chatterbox
