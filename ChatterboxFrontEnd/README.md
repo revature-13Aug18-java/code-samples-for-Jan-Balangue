@@ -6,4 +6,5 @@ This is Jan's contribution to the Chatterbox social media platform project, in w
 * HTML 5
 * CSS
 
+Link to full frontend repository: https://github.com/computeruser88/ChatterboxFrontEnd
 Link to backend repository: https://github.com/crandonriordan/Project2-Chatterbox/tree/master/p2-mvc/src
